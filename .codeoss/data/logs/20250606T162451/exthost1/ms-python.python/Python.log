@@ -1,0 +1,7 @@
+2025-06-06 16:25:41.104 [warning] Dir "/home/srishanthreddyg8/.pixi/envs" is not watchable (directory does not exist)
+2025-06-06 16:25:41.371 [info] Python interpreter path: ./amazing-gemini-app/venv/bin/python
+2025-06-06 16:25:41.513 [info] > pyenv which python
+2025-06-06 16:25:41.514 [info] cwd: .
+2025-06-06 16:25:44.839 [info] Starting Jedi language server for srishanthreddyg8.
+2025-06-06 16:25:47.210 [info] Send text to terminal: source /home/srishanthreddyg8/amazing-gemini-app/venv/bin/activate
+2025-06-06 16:25:48.212 [info] Send text to terminal: /home/srishanthreddyg8/amazing-gemini-app/venv/bin/python /home/srishanthreddyg8/amazing-gemini-app/app.py

@@ -1,0 +1,30 @@
+2025-06-05 17:02:28.224 [warning] Dir "/home/srishanthreddyg8/.pixi/envs" is not watchable (directory does not exist)
+2025-06-05 17:02:28.575 [info] Python interpreter path: ./amazing-gemini-app/venv/bin/python
+2025-06-05 17:02:28.637 [info] > pyenv which python
+2025-06-05 17:02:28.637 [info] cwd: .
+2025-06-05 17:02:34.499 [info] Send text to terminal: source /home/srishanthreddyg8/amazing-gemini-app/venv/bin/activate
+2025-06-05 17:02:37.982 [info] Starting Jedi language server for srishanthreddyg8.
+2025-06-05 17:02:50.493 [info] Send text to terminal: source /home/srishanthreddyg8/amazing-gemini-app/venv/bin/activate
+2025-06-05 17:02:51.769 [info] Send text to terminal: /home/srishanthreddyg8/amazing-gemini-app/venv/bin/python /home/srishanthreddyg8/amazing-gemini-app/app.py
+2025-06-05 17:04:42.242 [info] Running installed packages checker:  {
+  id: '/home/srishanthreddyg8/amazing-gemini-app/venv/bin/python',
+  sysPrefix: '/home/srishanthreddyg8/amazing-gemini-app/venv',
+  envType: 'Venv',
+  envName: 'venv',
+  envPath: '/home/srishanthreddyg8/amazing-gemini-app/venv',
+  path: '/home/srishanthreddyg8/amazing-gemini-app/venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('venv')",
+  detailedDisplayName: "Python 3.12.3 ('venv': venv)",
+  type: 'Virtual'
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/srishanthreddyg8/amazing-gemini-app/requirements.txt
+2025-06-05 17:04:42.242 [info] > ./amazing-gemini-app/venv/bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./amazing-gemini-app/requirements.txt

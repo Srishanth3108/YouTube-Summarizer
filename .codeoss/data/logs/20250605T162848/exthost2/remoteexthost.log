@@ -1,0 +1,28 @@
+2025-06-05 17:02:25.622 [info] Extension host with pid 2130 started
+2025-06-05 17:02:25.622 [error] Error: EEXIST: file already exists, open '/home/srishanthreddyg8/.codeoss/data/User/workspaceStorage/-6415330b/vscode.lock'
+2025-06-05 17:02:25.632 [info] Lock '/home/srishanthreddyg8/.codeoss/data/User/workspaceStorage/-6415330b/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-06-05 17:02:25.653 [info] Lock '/home/srishanthreddyg8/.codeoss/data/User/workspaceStorage/-6415330b/vscode.lock': The lock does not look stale, elapsed: 731 ms, giving up.
+2025-06-05 17:02:25.668 [info] Lock '/home/srishanthreddyg8/.codeoss/data/User/workspaceStorage/-6415330b-1/vscode.lock': Lock acquired.
+2025-06-05 17:02:25.965 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-06-05 17:02:25.967 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-05 17:02:25.967 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-06-05 17:02:27.610 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-06-05 17:02:27.781 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-06-05 17:02:27.781 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-05 17:02:27.959 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onTerminalProfile:cloudshell.default'
+2025-06-05 17:02:28.105 [error] Error: spawn /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-06-05 17:02:28.258 [info] Eager extensions activated
+2025-06-05 17:02:28.258 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-06-05 17:02:28.259 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-05 17:02:28.260 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-06-05 17:02:28.378 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-05 17:02:28.378 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-05 17:02:28.378 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-05 17:02:28.710 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-06-05 17:03:10.808 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2025-06-05 17:04:46.330 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-06-05 17:04:46.331 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-06-05 17:04:47.598 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

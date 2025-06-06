@@ -1,0 +1,17 @@
+2025-06-05 16:29:05.572 [warning] Dir "/home/srishanthreddyg8/.pixi/envs" is not watchable (directory does not exist)
+2025-06-05 16:29:05.572 [info] Starting Environment refresh
+2025-06-05 16:29:05.572 [info] Starting Environment refresh
+2025-06-05 16:29:05.572 [info] > hatch env show --json
+2025-06-05 16:29:05.572 [info] cwd: .
+2025-06-05 16:29:05.578 [info] Environments refresh finished (event): 50 milliseconds
+2025-06-05 16:29:05.578 [info] Environments refresh paths discovered: 50 milliseconds
+2025-06-05 16:29:05.578 [info] Environments refresh finished (event): 48 milliseconds
+2025-06-05 16:29:05.578 [info] Environments refresh paths discovered: 48 milliseconds
+2025-06-05 16:29:05.580 [info] Environment refresh took 53 milliseconds
+2025-06-05 16:29:05.581 [info] Environment refresh took 52 milliseconds
+2025-06-05 16:29:05.586 [info] > pyenv which python
+2025-06-05 16:29:05.586 [info] cwd: .
+2025-06-05 16:29:10.336 [info] Python interpreter path: ./amazing-gemini-app/venv/bin/python
+2025-06-05 16:29:16.171 [info] Starting Jedi language server for srishanthreddyg8.
+2025-06-05 16:40:58.882 [info] Send text to terminal: source /home/srishanthreddyg8/amazing-gemini-app/venv/bin/activate
+2025-06-05 16:40:59.884 [info] Send text to terminal: /home/srishanthreddyg8/amazing-gemini-app/venv/bin/python /home/srishanthreddyg8/amazing-gemini-app/app.py
